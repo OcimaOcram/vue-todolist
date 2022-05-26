@@ -1,0 +1,29 @@
+.container{
+    background-color: #6465af;
+}
+
+ul{
+    list-style-type: none;
+}
+ul li{
+    border: 1px solid black;
+    cursor: pointer;
+}
+i{
+    cursor: pointer;
+}
+.fa-check{
+    color: lawngreen;
+}
+.fa-times{
+    color: rgb(248, 0, 0);
+}
+.c-white{
+    color: white;
+}
+.lp-btn{
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 25%;
+
+}
